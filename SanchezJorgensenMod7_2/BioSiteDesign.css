@@ -40,3 +40,9 @@ main {
     padding: 10px;
     text-align: center;
 }
+
+.hobby {
+    height: 300px;
+    width: 400px;
+    text-align: center;
+}
